@@ -1,0 +1,5 @@
+flask>=2.3
+flask-cors>=4.0
+numpy>=1.21
+tensorflow>=2.10
+mido>=1.2
