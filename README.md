@@ -2,6 +2,13 @@
 
 Shoren is a cinematic AI music generation platform. It trains a neural network (LSTM/Transformer) on genre-specific musical data and generates expressive **MIDI files** you can download instantly.
 
+
+### 🎵 Live Demo  
+Experience SHOREN — AI Music Generator in action:  
+👉 [https://codealpha-music-generation.onrender.com](https://codealpha-music-generation.onrender.com)
+
+
+
 ## Features
 - 5 genres: Classical, Jazz, Ambient, Blues, Romantic
 - Real neural network (TensorFlow LSTM) — trains live on each request
